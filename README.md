@@ -9,7 +9,7 @@ Envie d'apprendre, tester et de partager mes connaissances avec les autres.</p>
 
 <h2>⭐ Some Github stats :bar_chart:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaroD59&layout=compact&theme=aura&show_icons=true)](https://github.com/NicoP59/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoP59&layout=compact&theme=aura&show_icons=true)](https://github.com/NicoP59/github-readme-stats)
 [![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoP59&theme=dark&show_icons=true)](https://github.com/CaroD59/github-readme-stats)
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NicoP59&theme=dark">
 
