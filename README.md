@@ -68,6 +68,7 @@ Envie d'apprendre, tester et de partager mes connaissances avec les autres.</p>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
     <img src="https://img.shields.io/badge/wampserver-FB7A24?style=for-the-badge&logo=wampserver&logoColor=000000" />
+    <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
 </p>
 
 <h3>~ Design</h3>
