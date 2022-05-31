@@ -2,7 +2,7 @@
 
 
 <h1>:wave: Salut !</h1>
-<p align="justify">Je m'appelle Nicolas, je me suis lançé dans le Développement Web depuis peu. J'ai suivi une formation de Septembre 2021 à Avril 2022 de Développeuse Web & Web Mobile à la SOFIP de Douai ! Je réalise plusieurs petits projets, en équipe ou seul, afin de m'améliorer chaque jour.
+<p align="justify">Je m'appelle Nicolas, je me suis lançé dans le Développement Web depuis peu. J'ai suivi une formation de Septembre 2021 à Avril 2022 de Développeur Web & Web Mobile à la SOFIP de Douai et je suis actuellement une formation de Concepteur Développeur d'Applications dans le même organisme de formation ! Je réalise plusieurs petits projets en méthode Agile / Scrum, en équipe ou seul, afin de m'améliorer chaque jour.
   
 Ici tu trouveras des repository d'apprentissages, testes et divers projets.
 Envie d'apprendre, tester et de partager mes connaissances avec les autres.</p>
